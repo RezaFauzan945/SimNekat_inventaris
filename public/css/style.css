@@ -1,0 +1,43 @@
+.bg-yellow-nekat {
+    background: #fdc800;
+}
+.bg-dark-nekat
+{
+    background:#002147 ;
+}
+.tx-yellow-nekat {
+    color: #fdc800;
+}
+.logo {
+    width: 51px;
+}
+
+.sidebar {
+    width: 20%;
+    height: 100%;
+    background: #002147;
+    float: left;
+}
+
+.sidebar *
+{
+    color: #fdc800;
+}
+
+.sidebar-icon
+{
+    width: 40px;
+}
+
+.sidebar-close
+{
+ width: 30px;
+}
+.wrapper
+{
+    height: 100%;
+}
+
+
+
+
