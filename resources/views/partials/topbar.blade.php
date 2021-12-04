@@ -1,4 +1,4 @@
- <nav class="navbar navbar-expand-lg navbar-light bg-yellow-nekat">
+ {{-- <nav class="navbar navbar-expand-lg navbar-light bg-yellow-nekat">
      <div class="container-fluid">
         
         <a class="navbar-brand" href="#">
@@ -17,4 +17,15 @@
             </div>
         </div>
      </div>
- </nav>
+ </nav> --}}
+
+
+
+ <nav class="navbar navbar-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">
+        <!-- <img src="pp.png" class="rounded-circle" alt="" > -->
+        Logo Image
+      </a>
+    </div>
+  </nav>
